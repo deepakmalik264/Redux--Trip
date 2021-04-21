@@ -1,0 +1,2 @@
+This game is basic use of Redux.
+Feel Free to use it.
