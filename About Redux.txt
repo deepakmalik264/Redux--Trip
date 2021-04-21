@@ -1,2 +1,2 @@
-This game is basic use of Redux.
+This is redux based game.
 Feel Free to use it.
